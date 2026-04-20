@@ -2,17 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=180&section=header&text=%24%20whoami&fontColor=00ff41&fontSize=60&fontAlignY=42&animation=fadeIn" width="100%" />
 
-<sub><code>agustin2505 // platform and infrastructure engineer</code></sub>
+<sub><code>agustin2505 // cloud security engineer · offensive security in progress</code></sub>
 
 <a href="https://github.com/agustin2505">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%24+uname+-r+platform-engineer;%24+whoami+%E2%86%92+agustin2505;%24+cat+stack.txt+%E2%86%92+gcp+k8s+terraform;%24+grep+-r+%22production%22+%2Finfra;%24+systemctl+status+landing-zone.service+%E2%9C%93&font=Fira%20Code&center=true&width=720&height=50&color=00ff41&vCenter=true&size=20&pause=1200&cursor=true" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami+%E2%86%92+cloud+security+engineer;%24+cat+stack.txt+%E2%86%92+gcp+k8s+terraform;%24+grep+-r+%22least-privilege%22+%2Finfra;%24+nmap+-sV+production.landing-zone;%24+hydra+-l+admin+-P+rockyou.txt+localhost;%24+systemctl+status+defense-in-depth.service+%E2%9C%93&font=Fira%20Code&center=true&width=760&height=50&color=00ff41&vCenter=true&size=20&pause=1200&cursor=true" alt="Typing" />
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/LOC-Mendoza_%7C_AR-00ff41?style=flat-square&labelColor=0d1117&color=00ff41" />
-<img src="https://img.shields.io/badge/ROLE-Platform_Engineer-00ff41?style=flat-square&labelColor=0d1117&color=00ff41" />
+<img src="https://img.shields.io/badge/ROLE-Cloud_Security_Engineer-00ff41?style=flat-square&labelColor=0d1117&color=00ff41" />
 <img src="https://img.shields.io/badge/DOMAIN-Financial_Services-00ff41?style=flat-square&labelColor=0d1117&color=00ff41" />
+<img src="https://img.shields.io/badge/FOCUS-Offensive_Sec_in_Progress-ff0040?style=flat-square&labelColor=0d1117&color=ff0040" />
 <img src="https://img.shields.io/badge/STATUS-Online-00ff41?style=flat-square&labelColor=0d1117&color=00ff41" />
 <img src="https://komarev.com/ghpvc/?username=agustin2505&label=VISITORS&color=00ff41&style=flat-square&labelColor=0d1117" />
 
@@ -28,7 +29,8 @@
 ```yaml
 identity:
   name:       "Agustín Exequiel Muñoz"
-  role:       "Platform & Infrastructure Engineer"
+  role:       "Cloud Security Engineer"
+  focus:      "GCP · Kubernetes · Offensive Security (in progress)"
   location:   "Mendoza, Argentina"
   education:  "UTN-FRSR · CS · 4th year"
   languages:  [es_AR, en_US]
@@ -36,8 +38,13 @@ identity:
 currently_building:
   target:     "Multi-tenant GCP landing zone for a bank (production)"
   framework:  "Cloud Foundation Fabric / FAST"
-  owning:     "AI / RAG platform layer — GKE + Cloud SQL pgvector + Airflow 3"
-  principles: [least-privilege, zero-static-keys, cmek-everywhere, vpc-sc]
+  owning:     "Security perimeter — VPC-SC, CMEK, WIF, IAM, org policies"
+  principles: [least-privilege, zero-static-keys, defense-in-depth, zero-trust]
+
+learning:
+  offensive:  [pentesting, red-team, web-app-security, network-recon]
+  toolkit:    [nmap, burp-suite, metasploit, wireshark, tryhackme, hackthebox]
+  goal:       "Bridge blue-team infra design with red-team adversarial thinking"
 
 status:       "open_to_opportunities"
 ```
@@ -78,9 +85,9 @@ status:       "open_to_opportunities"
   </tr>
   <tr>
     <td valign="top">
-      <h3 align="center"><code>[ security ]</code></h3>
+      <h3 align="center"><code>[ security / defense ]</code></h3>
       <p align="center">
-        <sub><b>Identity</b>: SA impersonation, WIF, OIDC, least privilege. <b>Network</b>: private clusters, VPC-SC perimeters, Private Google Access, authorized networks. <b>Data</b>: <b>CMEK</b>, Secret Manager, TLS enforcement. <b>Governance</b>: folder-level Org Policy overrides, <b>ISO 27001</b>, <b>BCRA</b>.</sub>
+        <sub><b>Identity</b>: SA impersonation, WIF, OIDC, least privilege. <b>Network</b>: private clusters, <b>VPC-SC</b> perimeters, Private Google Access, authorized networks. <b>Data</b>: <b>CMEK</b>, Secret Manager, TLS enforcement. <b>Governance</b>: Org Policy overrides, <b>ISO 27001</b>, <b>BCRA</b>. <b>Offensive (learning)</b>: nmap, Burp, Metasploit, Wireshark, TryHackMe, HackTheBox.</sub>
       </p>
     </td>
     <td valign="top">
@@ -149,7 +156,7 @@ status:       "open_to_opportunities"
 
 ## `// keywords`
 
-<sub>`gcp` · `kubernetes` · `gke` · `terraform` · `hcl` · `helm` · `cloud-foundation-fabric` · `fast-framework` · `landing-zone` · `multi-tenant` · `iac` · `devops` · `platform-engineering` · `sre` · `ci-cd` · `github-actions` · `gitops` · `wif` · `oidc` · `iam` · `least-privilege` · `cloud-sql` · `postgresql` · `pgvector` · `airflow` · `langfuse` · `python` · `bash` · `docker` · `shared-vpc` · `vpc-sc` · `private-gke` · `cmek` · `secret-manager` · `artifact-registry` · `oci` · `org-policies` · `opentelemetry` · `financial-services` · `banking` · `iso-27001` · `bcra` · `compliance` · `rag` · `llm-infrastructure` · `vertex-ai`</sub>
+<sub>`cloud-security` · `devsecops` · `gcp-security` · `gcp` · `kubernetes` · `gke` · `terraform` · `hcl` · `helm` · `cloud-foundation-fabric` · `fast-framework` · `landing-zone` · `multi-tenant` · `iac` · `platform-engineering` · `sre` · `ci-cd` · `github-actions` · `gitops` · `wif` · `oidc` · `iam` · `least-privilege` · `zero-trust` · `defense-in-depth` · `cloud-sql` · `postgresql` · `pgvector` · `airflow` · `langfuse` · `python` · `bash` · `docker` · `shared-vpc` · `vpc-sc` · `private-gke` · `cmek` · `secret-manager` · `artifact-registry` · `oci` · `org-policies` · `opentelemetry` · `financial-services` · `banking` · `iso-27001` · `bcra` · `compliance` · `rag` · `llm-infrastructure` · `ethical-hacking` · `pentesting` · `offensive-security` · `red-team` · `blue-team` · `nmap` · `burp-suite` · `metasploit` · `tryhackme` · `hackthebox`</sub>
 
 ---
 
@@ -170,7 +177,7 @@ status:       "open_to_opportunities"
 ```bash
 ┌──(agustin㉿infra)-[~]
 └─$ echo $AVAILABILITY
-> open to: Platform Engineering · SRE · DevOps · Cloud / Infrastructure
+> open to: Cloud Security · DevSecOps · Platform Engineering · SRE · Infra
 > modes:   full-time · part-time · internship · consulting
 ```
 
