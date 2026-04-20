@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:00ff41&height=180&section=header&text=%24%20whoami&fontColor=00ff41&fontSize=50&fontAlignY=55&desc=agustin2505%20//%20platform%20%26%20infrastructure%20engineer&descAlignY=80&descSize=14&descAlign=50&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=200&section=header&text=%24%20whoami&fontColor=00ff41&fontSize=60&fontAlignY=38&desc=agustin2505%20//%20platform%20%26%20infrastructure%20engineer&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/agustin2505">
   <img src="https://readme-typing-svg.demolab.com/?lines=%24+uname+-r+platform-engineer;%24+whoami+%E2%86%92+agustin2505;%24+cat+stack.txt+%E2%86%92+gcp+k8s+terraform;%24+grep+-r+%22production%22+%2Finfra;%24+systemctl+status+landing-zone.service+%E2%9C%93&font=Fira%20Code&center=true&width=720&height=50&color=00ff41&vCenter=true&size=20&pause=1200&cursor=true" alt="Typing" />
@@ -42,7 +42,7 @@ status:       "open_to_opportunities"
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXR5ZGx6a2hqdXB2aXJ3aW05aXhpaWY2cWR1Z3QwZGdjN3MxcnhkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKu42vbTZFvKw/giphy.gif" width="100%" height="200" />
+<img src="https://user-images.githubusercontent.com/74038190/212750996-cd1b3043-0310-4c05-9e20-8e5a8e02c4ca.gif" width="100%" height="220" />
 
 </div>
 
