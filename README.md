@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=200&section=header&text=%24%20whoami&fontColor=00ff41&fontSize=60&fontAlignY=38&desc=agustin2505%20//%20platform%20%26%20infrastructure%20engineer&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=180&section=header&text=%24%20whoami&fontColor=00ff41&fontSize=60&fontAlignY=42&animation=fadeIn" width="100%" />
+
+<sub><code>agustin2505 // platform and infrastructure engineer</code></sub>
 
 <a href="https://github.com/agustin2505">
   <img src="https://readme-typing-svg.demolab.com/?lines=%24+uname+-r+platform-engineer;%24+whoami+%E2%86%92+agustin2505;%24+cat+stack.txt+%E2%86%92+gcp+k8s+terraform;%24+grep+-r+%22production%22+%2Finfra;%24+systemctl+status+landing-zone.service+%E2%9C%93&font=Fira%20Code&center=true&width=720&height=50&color=00ff41&vCenter=true&size=20&pause=1200&cursor=true" alt="Typing" />
