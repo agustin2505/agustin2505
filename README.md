@@ -163,8 +163,8 @@ status:       "open_to_opportunities"
 ## `// contact`
 
 <p align="left">
-  <a href="mailto:agussseze@gmail.com">
-    <img src="https://img.shields.io/badge/MAIL-agussseze%40gmail.com-00ff41?style=for-the-badge&logo=protonmail&logoColor=00ff41&labelColor=0d1117" />
+  <a href="mailto:agussezezz@gmail.com">
+    <img src="https://img.shields.io/badge/MAIL-agussezezz%40gmail.com-00ff41?style=for-the-badge&logo=protonmail&logoColor=00ff41&labelColor=0d1117" />
   </a>
   <a href="https://www.linkedin.com/in/agustin-muñoz-85b79b249/">
     <img src="https://img.shields.io/badge/LINKEDIN-connect-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117" />
